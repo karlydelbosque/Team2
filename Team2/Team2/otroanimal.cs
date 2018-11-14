@@ -8,5 +8,6 @@ namespace Team2
 {
     class otroanimal
     {
+
     }
 }
